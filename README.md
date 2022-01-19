@@ -11,7 +11,7 @@ pkg install git
 
 pkg update git
 
-git clone https://github.com/artiomzd/zdhub-fake
+git clone https://github.com/artiomzd/zdhub
 
 cd zdhub-fake
 
