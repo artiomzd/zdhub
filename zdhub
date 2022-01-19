@@ -1,4 +1,6 @@
 import time, os
+os.system('clear')
+print("\n")
 print("Добро пожаловать в ZdHub! v0.1")
 print("Хаб сделан ArtiomZd\n")
 time.sleep(1)
