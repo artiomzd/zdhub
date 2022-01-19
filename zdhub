@@ -8,7 +8,7 @@ nick = input("Введите никнейм: ")
 print()
 time.sleep(1)
 print(f"Поиск аккаунта {nick}...")
-time.sleep(3)
+time.sleep(2)
 print(f"{nick} найден")
 time.sleep(1)
 #Пароль 420
