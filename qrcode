@@ -1,0 +1,10 @@
+import qrcode as qc
+import time as t
+import image as i
+import PIL as p
+
+print("Привет!")
+text = str(input("Текст Qr-Код: "))
+img = qc.make(str(text))
+img.show()
+t.sleep(1)
