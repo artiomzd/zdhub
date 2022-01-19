@@ -1,0 +1,18 @@
+import time
+print("Бесплатные бобуксы!!!")
+time.sleep(1)
+print("Автор: @tailsheppy\n")
+print("Введите кол-во бобуксов:")
+bobux = input()
+print("")
+
+name = input("Введите Никнейм:")
+input("Введите Пароль:")
+time.sleep(0.5)
+print("")
+print("Вход в аккаунт...\n")
+time.sleep(3)
+print(f"Накрутка {bobux} бобуксов....\n")
+time.sleep(4)
+print(f"{name}, спасибо за аккаунт братан")
+time.sleep(2)
